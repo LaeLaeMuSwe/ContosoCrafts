@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iouoyfd2WfBFj4bo38AW5THp2zF+SdH3q6hkmnhX86tZvmvsbVCYg5jWgTi8w/3xlpYTIBLVX02EB/WSMEcXCQ==",
+  "success": true,
+  "projectFilePath": "D:\\LLMS\\Learning\\Projects\\ContosoCratfsWebSite_Asp.netCore\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laelae.swe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

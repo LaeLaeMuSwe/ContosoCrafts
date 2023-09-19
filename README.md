@@ -2,7 +2,9 @@
 Asp.net Core Project
 
 ## Home Page
-![HomePage](https://github.com/LaeLaeMuSwe/ContosoCrafts/assets/71454906/4c72accb-755c-4e9a-9671-64e343920cce)
+![HomePage](https://github.com/LaeLaeMuSwe/ContosoCrafts/assets/71454906/64b0044d-201a-4175-a7df-a1cde5c2874c)
+
 
 ## Detail Page/ Give Ratings
-![Vote](https://github.com/LaeLaeMuSwe/ContosoCrafts/assets/71454906/063088e0-e213-488a-8d74-7b8e3e0bbbe5)
+
+![Vote](https://github.com/LaeLaeMuSwe/ContosoCrafts/assets/71454906/72285df6-71ef-4dfc-aced-9387e5c7fedb)
